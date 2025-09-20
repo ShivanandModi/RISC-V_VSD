@@ -37,7 +37,11 @@ $ make
 $ sudo make install
 ```
 
+<div align="center">
+    
 ### Terminal Result
+
+</div>
 
 <div align="center">
     
@@ -53,7 +57,11 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 
+<div align="center">
+    
 ### Terminal Result
+
+</div>
 
 <div align="center">
     
@@ -68,7 +76,11 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 
+<div align="center">
+    
 ### Terminal Result
+
+</div>
 
 <div align="center">
     
